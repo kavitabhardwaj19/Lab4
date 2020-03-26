@@ -1,0 +1,49 @@
+{
+  "strangeProducts" : [
+    {
+      "name" : "A dog dryer",
+      "price" : 39.95,
+      "details" : [
+        "blow-dryer suit",
+        "helps in drying a dog"
+      ],
+      "image" : "product-1.jpg"
+    },
+    {
+      "name" : "A desktop refrigerator",
+      "price" : 38.00,
+      "details" : [
+        "single beverage refrigerator",
+        "in reach and handy"
+      ],
+      "image" : "product-2.jpg"
+    },
+    {
+      "name" : "A pizza hat",
+      "price" : 11.62,
+      "details" : [
+        "wearing pizza atop the head",
+        "sprinkled parmesan might seem like dandruff"
+      ],
+      "image" : "product-3.jpg"
+    },
+    {
+      "name" : "A tennis ball with a head strap",
+      "price" : 5.28,
+      "details" : [
+        "improve your reflexes as a boxer",
+        "get hit in the face"
+      ],
+      "image" : "product-4.jpeg"
+    },
+    {
+      "name" : "Baby hands candles",
+      "price" : 15.00,
+      "details" : [
+        "handmade, pure beeswax candles",
+        "eerily-lifelike baby hands on fire"
+      ],
+      "image" : "product-5.jpg"
+    }
+  ]
+}
